@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Brux\Desktop\Informatica\C\progettiC\prove da pdf\teoria_ripasso2\main.c(8,16): warning C4244: 'initializing': conversion from '__int64' to 'char', possible loss of data
+  teoria_ripasso2.vcxproj -> C:\Users\Brux\Desktop\Informatica\C\progettiC\prove da pdf\teoria_ripasso2\x64\Debug\teoria_ripasso2.exe

@@ -1,0 +1,11 @@
+﻿  main.c
+C:\Users\Brux\Desktop\Informatica\C\progettiC\prove da pdf\teoria_ripasso5\main.c(19,19): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'char *'
+C:\Users\Brux\Desktop\Informatica\C\progettiC\prove da pdf\teoria_ripasso5\main.c(19,19): message : consider using '%hhd' in the format string
+C:\Users\Brux\Desktop\Informatica\C\progettiC\prove da pdf\teoria_ripasso5\main.c(16,7): warning C4101: 'stro': unreferenced local variable
+C:\Users\Brux\Desktop\Informatica\C\progettiC\prove da pdf\teoria_ripasso5\main.c(13,8): warning C4101: 'f': unreferenced local variable
+C:\Users\Brux\Desktop\Informatica\C\progettiC\prove da pdf\teoria_ripasso5\main.c(12,18): warning C4101: 'h1': unreferenced local variable
+C:\Users\Brux\Desktop\Informatica\C\progettiC\prove da pdf\teoria_ripasso5\main.c(12,14): warning C4101: 'i3': unreferenced local variable
+C:\Users\Brux\Desktop\Informatica\C\progettiC\prove da pdf\teoria_ripasso5\main.c(12,10): warning C4101: 'i2': unreferenced local variable
+C:\Users\Brux\Desktop\Informatica\C\progettiC\prove da pdf\teoria_ripasso5\main.c(12,6): warning C4101: 'i1': unreferenced local variable
+C:\Users\Brux\Desktop\Informatica\C\progettiC\prove da pdf\teoria_ripasso5\main.c(14,9): warning C4101: 'd': unreferenced local variable
+  teoria_ripasso5.vcxproj -> C:\Users\Brux\Desktop\Informatica\C\progettiC\prove da pdf\teoria_ripasso5\x64\Debug\teoria_ripasso5.exe

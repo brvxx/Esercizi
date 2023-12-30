@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Brux\Desktop\Informatica\C\progettiC\prove da pdf\fgets1\main.c(14,15): warning C4013: 'strlen' undefined; assuming extern returning int
+  fgets1.vcxproj -> C:\Users\Brux\Desktop\Informatica\C\progettiC\prove da pdf\fgets1\x64\Debug\fgets1.exe

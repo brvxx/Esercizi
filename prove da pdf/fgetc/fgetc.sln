@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fgetc", "fgetc.vcxproj", "{870BA98A-0546-4A4F-B34D-780CE7B26FBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{870BA98A-0546-4A4F-B34D-780CE7B26FBB}.Debug|x64.ActiveCfg = Debug|x64
+		{870BA98A-0546-4A4F-B34D-780CE7B26FBB}.Debug|x64.Build.0 = Debug|x64
+		{870BA98A-0546-4A4F-B34D-780CE7B26FBB}.Debug|x86.ActiveCfg = Debug|Win32
+		{870BA98A-0546-4A4F-B34D-780CE7B26FBB}.Debug|x86.Build.0 = Debug|Win32
+		{870BA98A-0546-4A4F-B34D-780CE7B26FBB}.Release|x64.ActiveCfg = Release|x64
+		{870BA98A-0546-4A4F-B34D-780CE7B26FBB}.Release|x64.Build.0 = Release|x64
+		{870BA98A-0546-4A4F-B34D-780CE7B26FBB}.Release|x86.ActiveCfg = Release|Win32
+		{870BA98A-0546-4A4F-B34D-780CE7B26FBB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CD52400-5E01-433D-B6CE-BBE0AFA5B44C}
+	EndGlobalSection
+EndGlobal

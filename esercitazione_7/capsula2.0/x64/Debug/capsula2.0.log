@@ -1,0 +1,8 @@
+﻿  capsula.c
+C:\Users\Brux\Desktop\Informatica\C\progettiC\esercitazione_7\capsula2.0\capsula.c(21,24): warning C4267: 'function': conversion from 'size_t' to 'unsigned char', possible loss of data
+C:\Users\Brux\Desktop\Informatica\C\progettiC\esercitazione_7\capsula2.0\capsula.c(23,20): warning C4267: 'function': conversion from 'size_t' to 'unsigned char', possible loss of data
+C:\Users\Brux\Desktop\Informatica\C\progettiC\esercitazione_7\capsula2.0\capsula.c(36,18): warning C4267: 'function': conversion from 'size_t' to 'unsigned char', possible loss of data
+C:\Users\Brux\Desktop\Informatica\C\progettiC\esercitazione_7\capsula2.0\capsula.c(38,34): warning C4267: 'function': conversion from 'size_t' to 'unsigned char', possible loss of data
+  main.c
+  Generating Code...
+  capsula2.0.vcxproj -> C:\Users\Brux\Desktop\Informatica\C\progettiC\esercitazione_7\capsula2.0\x64\Debug\capsula2.0.exe

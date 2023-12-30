@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Brux\Desktop\Informatica\C\progettiC\esercitazione_5\Inverti_stringa\main.c(12,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Inverti_stringa.vcxproj -> C:\Users\Brux\Desktop\Informatica\C\progettiC\esercitazione_5\Inverti_stringa\x64\Debug\Inverti_stringa.exe

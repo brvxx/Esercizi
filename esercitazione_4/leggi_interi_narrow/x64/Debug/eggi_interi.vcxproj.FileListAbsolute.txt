@@ -1,0 +1,2 @@
+C:\Users\Brux\Desktop\Informatica\C\progettiC\esercitazione_4\eggi_interi\x64\Debug\eggi_interi.exe
+C:\Users\Brux\Desktop\Informatica\C\progettiC\esercitazione_4\leggi_interi_narrow\x64\Debug\eggi_interi.exe

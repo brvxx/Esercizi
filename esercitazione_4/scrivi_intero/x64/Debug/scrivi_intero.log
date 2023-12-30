@@ -1,0 +1,2 @@
+﻿  file.c
+C:\Users\Brux\Desktop\Informatica\C\progettiC\esercitazione_4\scrivi_intero\file.c(24,33): warning C4244: 'function': conversion from 'size_t' to 'double', possible loss of data

@@ -1,0 +1,4 @@
+﻿  inverti.c
+C:\Users\Brux\Desktop\Informatica\C\progettiC\esercitazione_5\inverti_cifre\inverti.c(20,35): warning C4244: 'function': conversion from 'size_t' to 'double', possible loss of data
+C:\Users\Brux\Desktop\Informatica\C\progettiC\esercitazione_5\inverti_cifre\inverti.c(20,21): warning C4244: '+=': conversion from 'double' to 'unsigned int', possible loss of data
+  inverti_cifre.vcxproj -> C:\Users\Brux\Desktop\Informatica\C\progettiC\esercitazione_5\inverti_cifre\x64\Debug\inverti_cifre.exe

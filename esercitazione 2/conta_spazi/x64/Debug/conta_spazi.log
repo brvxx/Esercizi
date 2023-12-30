@@ -1,0 +1,3 @@
+﻿  contaspazi.c
+C:\Users\Massimo\Desktop\progettiC\esercitazione 2\conta_spazi\contaspazi.c(11,9): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  conta_spazi.vcxproj -> C:\Users\Massimo\Desktop\progettiC\esercitazione 2\conta_spazi\x64\Debug\conta_spazi.exe

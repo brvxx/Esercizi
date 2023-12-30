@@ -1,0 +1,3 @@
+﻿  contamaiuscole.c
+C:\Users\Massimo\Desktop\progettiC\prove da pdf\conta_maiuscole\contamaiuscole.c(9,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  conta_maiuscole.vcxproj -> C:\Users\Massimo\Desktop\progettiC\prove da pdf\conta_maiuscole\x64\Debug\conta_maiuscole.exe

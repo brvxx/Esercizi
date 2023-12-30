@@ -1,0 +1,5 @@
+﻿  conversione.c
+C:\Users\Brux\Desktop\progettiC\prove in classe\da_unsigned_int_a_srtinga_C\conversione.c(27,45): warning C4244: 'function': conversion from 'size_t' to 'double', possible loss of data
+  main.c
+  Generating Code...
+  da_unsigned_int_a_srtinga_C.vcxproj -> C:\Users\Brux\Desktop\progettiC\prove in classe\da_unsigned_int_a_srtinga_C\x64\Debug\da_unsigned_int_a_srtinga_C.exe

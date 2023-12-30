@@ -1,0 +1,5 @@
+﻿  calcola_seno.c
+C:\Users\Massimo\Desktop\progettiC\esercitazione 2\calcola funzione seno\calcola_seno.c(20,22): warning C4244: 'function': conversion from 'size_t' to 'double', possible loss of data
+C:\Users\Massimo\Desktop\progettiC\esercitazione 2\calcola funzione seno\calcola_seno.c(20,47): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Massimo\Desktop\progettiC\esercitazione 2\calcola funzione seno\calcola_seno.c(20,70): warning C4244: 'function': conversion from 'size_t' to 'double', possible loss of data
+  calcola funzione seno.vcxproj -> C:\Users\Massimo\Desktop\progettiC\esercitazione 2\calcola funzione seno\x64\Debug\calcola funzione seno.exe
