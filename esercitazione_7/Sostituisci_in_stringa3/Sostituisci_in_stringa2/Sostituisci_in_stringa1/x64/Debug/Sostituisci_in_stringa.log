@@ -1,0 +1,4 @@
+﻿  stringhe.c
+D:\everything\Progetti\esercitazione_7\Sostituisci_in_stringa1\stringhe.c(44,11): warning C4090: '=': different 'const' qualifiers
+D:\everything\Progetti\esercitazione_7\Sostituisci_in_stringa1\stringhe.c(55,25): warning C4090: '=': different 'const' qualifiers
+D:\everything\Progetti\esercitazione_7\Sostituisci_in_stringa1\stringhe.c(42,8): warning C4090: 'initializing': different 'const' qualifiers

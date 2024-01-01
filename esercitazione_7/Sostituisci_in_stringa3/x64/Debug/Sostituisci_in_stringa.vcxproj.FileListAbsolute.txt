@@ -1,0 +1,5 @@
+D:\everything\Progetti\esercitazione_7\Sostituisci_in_stringa\x64\Debug\Sostituisci_in_stringa.exe
+D:\everything\Progetti\esercitazione_7\Sostituisci_in_stringa 1\x64\Debug\Sostituisci_in_stringa.exe
+D:\everything\Progetti\esercitazione_7\Sostituisci_in_stringa1\x64\Debug\Sostituisci_in_stringa.exe
+D:\everything\Progetti\esercitazione_7\Sostituisci_in_stringa2\x64\Debug\Sostituisci_in_stringa.exe
+D:\everything\Progetti\esercitazione_7\Sostituisci_in_stringa3\x64\Debug\Sostituisci_in_stringa.exe
