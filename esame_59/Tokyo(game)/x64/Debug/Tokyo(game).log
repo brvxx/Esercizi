@@ -1,0 +1,4 @@
+﻿  tokyo.c
+D:\everything\Progetti\esame_59\Tokyo(game)\tokyo.c(5,3): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+D:\everything\Progetti\esame_59\Tokyo(game)\tokyo.c(9,4): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+  Tokyo(game).vcxproj -> D:\everything\Progetti\esame_59\Tokyo(game)\x64\Debug\Tokyo(game).exe

@@ -1,0 +1,10 @@
+﻿  secret.c
+D:\everything\Progetti\esame_59\numero_segreto\secret.c(23,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  D:\everything\Progetti\esame_59\numero_segreto\secret.c(23,12):
+  consider using '%zd' in the format string
+  
+D:\everything\Progetti\esame_59\numero_segreto\secret.c(31,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  D:\everything\Progetti\esame_59\numero_segreto\secret.c(31,9):
+  consider using '%zd' in the format string
+  
+  numero_segreto.vcxproj -> D:\everything\Progetti\esame_59\numero_segreto\x64\Debug\numero_segreto.exe

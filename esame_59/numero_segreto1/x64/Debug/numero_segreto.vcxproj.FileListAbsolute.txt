@@ -1,0 +1,2 @@
+D:\everything\Progetti\esame_59\numero_segreto\x64\Debug\numero_segreto.exe
+D:\everything\Progetti\esame_59\numero_segreto1\x64\Debug\numero_segreto.exe

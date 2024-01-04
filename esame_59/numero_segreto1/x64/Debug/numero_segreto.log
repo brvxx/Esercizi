@@ -1,0 +1,3 @@
+﻿  secret.c
+D:\everything\Progetti\esame_59\numero_segreto1\secret.c(27,28): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+  numero_segreto.vcxproj -> D:\everything\Progetti\esame_59\numero_segreto1\x64\Debug\numero_segreto.exe
