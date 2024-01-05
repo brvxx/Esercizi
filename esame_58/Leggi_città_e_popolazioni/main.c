@@ -3,7 +3,7 @@
 int main(void) {
 	uint32_t cities = 0;
 	
-	struct city* res = read_cities("cities02.bin", &cities);
+	struct city* res = read_cities("cities03.bin", &cities);
 	
 	printf("in totale le citta' sono: %d\n\n", cities);
 	for (size_t i = 0; i < cities; ++i) {

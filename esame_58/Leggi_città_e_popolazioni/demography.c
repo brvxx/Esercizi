@@ -22,15 +22,20 @@ struct city* read_cities(const char* filename, uint32_t* n) {
 			if (tmp == 0) {
 				break;
 			}
-			/*if ((tmp < 'A' || tmp > 'z' || (tmp > 'Z' && tmp < 'a')) && (tmp != ' ' && tmp != -61)) {
-				free(res);
-				fclose(f);
-				return NULL;
-			}*/
+			if (word_idx > 255) {
+				break;
+			}
 			(res[struct_idx].name)[word_idx] = tmp;
 			++word_idx;
 		}
-		/*printf("%s\n", res[struct_idx].name);*/
+		if (tmp != 0) {
+			for (size_t i = 0; i <= struct_idx; ++i) {
+				free(res[i].name);
+			}
+			free(res);
+			fclose(f);
+			return NULL; 
+		}
 		fread(&(res[struct_idx].population), 1, sizeof(uint32_t), f);
 		word_idx = 0;
 	}
